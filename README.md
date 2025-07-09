@@ -25,6 +25,8 @@ The DominoIQ Insights application is intended fopr use by two types of people:
 
 <b>Notes Client Users:</b> End users can use the DominoIQ functionality inside the enabled Domino applications by acessing the "DominoIQ Insights" functionality found wihtin the "Actions" menu. This will launch a Wizard interface inside the DominoIQ Insights appliction where they can provide Prompts to DominoIQ and receive the AI Results on screen. these Results can then be saved for future reference, copied onto the user's clipboard for use elsewhere, emailed to other recipients, and shared between co-workers. 
 
+[Review this page](https://github.com/HCL-TECH-SOFTWARE/DominoIQ-Insights/blob/main/docs/using.md) to learn how to deploy, configure and use HCL DominoIQ Insights
+
 ## Access Control
 The Access Control List level should be Author for all <b>End Users</b> of this application.  This will prevent unauthorized editing of documents within the application. The Author fields within the forms govern who will be able to edit/review particular documents. Errors may occur if someone with Editor access attempts to review a Document when they are not an authorized viewer of that Document.
 
